@@ -1,2 +1,1 @@
-# gatsby-blog
-gatsby blog app with typescript
+# Gatsby-Blog
